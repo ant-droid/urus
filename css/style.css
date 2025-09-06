@@ -428,10 +428,10 @@ body {
 }
 @media (max-width: 800px) {
   .header__content {
-    height: calc(80vh - 135px);
+    height: calc(90vh - 135px);
   }
   .header {
-    min-height: 80vh;
+    min-height: 90vh;
   }
   .header__top {
     padding-top: 25px;
@@ -483,10 +483,10 @@ body {
 }
 @media (max-width: 520px) {
   .header__content {
-    height: calc(60vh - 135px);
+    height: calc(80vh - 135px);
   }
   .header {
-    min-height: 60vh;
+    min-height: 80vh;
   }
   .title {
     font-size: 120px;
